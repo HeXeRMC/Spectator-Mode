@@ -1,0 +1,13 @@
+name: SpectatorMode
+main: hexer\Main
+api: 3.9.0
+version: 1.0.0
+author: HeXeR
+
+commands:
+ spectator: 
+  description: Turn on/off spectator mode
+  permission: spectator.use.player
+permissions:
+ spectator.use.player: 
+  description: Turn on/off spectator mode
